@@ -5,3 +5,8 @@ yarn-error.log
 lib
 docs/index.min.js
 docs/style.min.css
+misc.xml
+modules.xml
+v-charts.iml
+vcs.xml
+.idea
